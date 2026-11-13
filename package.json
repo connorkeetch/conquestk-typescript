@@ -80,7 +80,7 @@
     "@playwright/test": "^1.55.1",
     "@types/node": "^24.5.2",
     "concurrently": "^8.2.2",
-    "vitest": "3.2.4"
+    "vitest": "5.1.0"
   },
   "workspaces": [
     "frontend",
